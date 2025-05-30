@@ -1,5 +1,3 @@
-"7290872299:AAGB0H0QROUqpfL9taDJ1OWW21yX5o-9B-g"):
-
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppInfo
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
